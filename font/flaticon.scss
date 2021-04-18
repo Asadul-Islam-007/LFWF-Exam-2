@@ -1,0 +1,157 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?c4c5758962d08da47e7c25a052aa65ce") format("truetype"),
+url("./flaticon.woff?c4c5758962d08da47e7c25a052aa65ce") format("woff"),
+url("./flaticon.woff2?c4c5758962d08da47e7c25a052aa65ce") format("woff2"),
+url("./flaticon.eot?c4c5758962d08da47e7c25a052aa65ce#iefix") format("embedded-opentype"),
+url("./flaticon.svg?c4c5758962d08da47e7c25a052aa65ce#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "add": "\f101",
+    "analytics-1": "\f102",
+    "analytics": "\f103",
+    "bulding": "\f104",
+    "businessman": "\f105",
+    "calendar": "\f106",
+    "call": "\f107",
+    "envelope": "\f108",
+    "facebook-circular-logo": "\f109",
+    "facebook": "\f10a",
+    "global": "\f10b",
+    "google-plus-1": "\f10c",
+    "google-plus": "\f10d",
+    "instagram": "\f10e",
+    "like": "\f10f",
+    "menu-1": "\f110",
+    "menu": "\f111",
+    "placeholder": "\f112",
+    "profits": "\f113",
+    "quote-left": "\f114",
+    "report": "\f115",
+    "ribbon": "\f116",
+    "right-arrow": "\f117",
+    "send": "\f118",
+    "straight-right-arrow": "\f119",
+    "suitcase": "\f11a",
+    "talk-of-a-couple-of-businessmen-standing-with-suitcases": "\f11b",
+    "telegram": "\f11c",
+    "trophy": "\f11d",
+    "twitter": "\f11e",
+    "user": "\f11f",
+    "villa": "\f120",
+    "wallet": "\f121",
+);
+
+.flaticon-add:before {
+    content: map-get($flaticon-map, "add");
+}
+.flaticon-analytics-1:before {
+    content: map-get($flaticon-map, "analytics-1");
+}
+.flaticon-analytics:before {
+    content: map-get($flaticon-map, "analytics");
+}
+.flaticon-bulding:before {
+    content: map-get($flaticon-map, "bulding");
+}
+.flaticon-businessman:before {
+    content: map-get($flaticon-map, "businessman");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon-map, "calendar");
+}
+.flaticon-call:before {
+    content: map-get($flaticon-map, "call");
+}
+.flaticon-envelope:before {
+    content: map-get($flaticon-map, "envelope");
+}
+.flaticon-facebook-circular-logo:before {
+    content: map-get($flaticon-map, "facebook-circular-logo");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon-map, "facebook");
+}
+.flaticon-global:before {
+    content: map-get($flaticon-map, "global");
+}
+.flaticon-google-plus-1:before {
+    content: map-get($flaticon-map, "google-plus-1");
+}
+.flaticon-google-plus:before {
+    content: map-get($flaticon-map, "google-plus");
+}
+.flaticon-instagram:before {
+    content: map-get($flaticon-map, "instagram");
+}
+.flaticon-like:before {
+    content: map-get($flaticon-map, "like");
+}
+.flaticon-menu-1:before {
+    content: map-get($flaticon-map, "menu-1");
+}
+.flaticon-menu:before {
+    content: map-get($flaticon-map, "menu");
+}
+.flaticon-placeholder:before {
+    content: map-get($flaticon-map, "placeholder");
+}
+.flaticon-profits:before {
+    content: map-get($flaticon-map, "profits");
+}
+.flaticon-quote-left:before {
+    content: map-get($flaticon-map, "quote-left");
+}
+.flaticon-report:before {
+    content: map-get($flaticon-map, "report");
+}
+.flaticon-ribbon:before {
+    content: map-get($flaticon-map, "ribbon");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon-map, "right-arrow");
+}
+.flaticon-send:before {
+    content: map-get($flaticon-map, "send");
+}
+.flaticon-straight-right-arrow:before {
+    content: map-get($flaticon-map, "straight-right-arrow");
+}
+.flaticon-suitcase:before {
+    content: map-get($flaticon-map, "suitcase");
+}
+.flaticon-talk-of-a-couple-of-businessmen-standing-with-suitcases:before {
+    content: map-get($flaticon-map, "talk-of-a-couple-of-businessmen-standing-with-suitcases");
+}
+.flaticon-telegram:before {
+    content: map-get($flaticon-map, "telegram");
+}
+.flaticon-trophy:before {
+    content: map-get($flaticon-map, "trophy");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon-map, "twitter");
+}
+.flaticon-user:before {
+    content: map-get($flaticon-map, "user");
+}
+.flaticon-villa:before {
+    content: map-get($flaticon-map, "villa");
+}
+.flaticon-wallet:before {
+    content: map-get($flaticon-map, "wallet");
+}

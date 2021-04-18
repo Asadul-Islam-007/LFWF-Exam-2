@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?c4c5758962d08da47e7c25a052aa65ce") format("truetype"),
+url("./flaticon.woff?c4c5758962d08da47e7c25a052aa65ce") format("woff"),
+url("./flaticon.woff2?c4c5758962d08da47e7c25a052aa65ce") format("woff2"),
+url("./flaticon.eot?c4c5758962d08da47e7c25a052aa65ce#iefix") format("embedded-opentype"),
+url("./flaticon.svg?c4c5758962d08da47e7c25a052aa65ce#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-add:before {
+    content: "\f101";
+}
+.flaticon-analytics-1:before {
+    content: "\f102";
+}
+.flaticon-analytics:before {
+    content: "\f103";
+}
+.flaticon-bulding:before {
+    content: "\f104";
+}
+.flaticon-businessman:before {
+    content: "\f105";
+}
+.flaticon-calendar:before {
+    content: "\f106";
+}
+.flaticon-call:before {
+    content: "\f107";
+}
+.flaticon-envelope:before {
+    content: "\f108";
+}
+.flaticon-facebook-circular-logo:before {
+    content: "\f109";
+}
+.flaticon-facebook:before {
+    content: "\f10a";
+}
+.flaticon-global:before {
+    content: "\f10b";
+}
+.flaticon-google-plus-1:before {
+    content: "\f10c";
+}
+.flaticon-google-plus:before {
+    content: "\f10d";
+}
+.flaticon-instagram:before {
+    content: "\f10e";
+}
+.flaticon-like:before {
+    content: "\f10f";
+}
+.flaticon-menu-1:before {
+    content: "\f110";
+}
+.flaticon-menu:before {
+    content: "\f111";
+}
+.flaticon-placeholder:before {
+    content: "\f112";
+}
+.flaticon-profits:before {
+    content: "\f113";
+}
+.flaticon-quote-left:before {
+    content: "\f114";
+}
+.flaticon-report:before {
+    content: "\f115";
+}
+.flaticon-ribbon:before {
+    content: "\f116";
+}
+.flaticon-right-arrow:before {
+    content: "\f117";
+}
+.flaticon-send:before {
+    content: "\f118";
+}
+.flaticon-straight-right-arrow:before {
+    content: "\f119";
+}
+.flaticon-suitcase:before {
+    content: "\f11a";
+}
+.flaticon-talk-of-a-couple-of-businessmen-standing-with-suitcases:before {
+    content: "\f11b";
+}
+.flaticon-telegram:before {
+    content: "\f11c";
+}
+.flaticon-trophy:before {
+    content: "\f11d";
+}
+.flaticon-twitter:before {
+    content: "\f11e";
+}
+.flaticon-user:before {
+    content: "\f11f";
+}
+.flaticon-villa:before {
+    content: "\f120";
+}
+.flaticon-wallet:before {
+    content: "\f121";
+}

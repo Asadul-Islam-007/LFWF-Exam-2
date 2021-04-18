@@ -1,0 +1,917 @@
+@media(max-width: 1920px) {
+    .team-text h6::before {
+        left: 525px;
+    }
+    .team-text h6::after {
+        right: 527px;
+    }
+    .contact-from {
+        top: -74px;
+        right: 312px;
+    }
+}
+@media(max-width: 1348px){
+    .header::after {
+        display: none;
+    }
+    .mobile-bar::before {
+        display: none;
+    }
+    .mobile-bar::after {
+        display: none;
+    }
+}
+
+@media(max-width: 1200px) {
+    .work-info button {
+        font-size: 19px;
+        left: 103px;
+        height: 44px;
+        width: 92px;
+    }
+    .work-details p {
+        line-height: 24px;
+        font-size: 15px;
+    }
+    .work-info button::before {
+        top: 23px;
+        left: -63px;
+        height: 3px;
+        width: 65px;
+    }
+    .work-info button::after {
+        top: 23px;
+        left: 91px;
+        width: 68px;
+    }
+    .about-right {
+        margin-top: 0px !important;
+    }
+    .about-right p {
+        font-size: 15px;
+        margin-bottom: 26px;
+    }
+    .about-btn button {
+        margin-top: 23px;
+    }
+    .counter-content h1 {
+        margin-top: 8px;
+        font-size: 35px;
+    }
+    .counter-details span {
+        font-size: 42px;
+        margin-right: 9px;
+    }
+    .counter-details {
+        padding: 18px 0;
+        padding-left: 12px;
+    }
+    .counter-content h6 {
+        font-size: 14px;
+    }
+    .service-details p {
+        font-size: 13px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+    .service-details h5 {
+        font-size: 17px;
+        margin-bottom: 13px;
+    }
+    .service-details span {
+        font-size: 54px;
+    }
+    .service-details {
+        padding: 22px 15px;
+    }
+    .service-right p {
+        line-height: 24px;
+        margin-top: -13px;
+    }
+    .skill-left {
+        margin-top: 0 !important;
+    }
+    .skill-left h1 {
+        font-size: 35px;
+    }
+    .skill-left h6 {
+        font-size: 15px;
+    }
+    .skill-left p {
+        line-height: 24px;
+        padding: 9px 0;
+        font-size: 15px;
+    }
+    .skill-atigator h5 {
+        font-size: 18px;
+        margin-top: 19px;
+        margin-bottom: 7px;
+    }
+    .contact-from h3 {
+        font-size: 26px;
+    }
+    .contact-from p {
+        font-size: 15px;
+        padding: 5px 0;
+        line-height: 24px;
+        margin-bottom: 12px;
+    }
+    .contact-from input {
+        padding: 11px;
+        font-size: 13px;
+    }
+    .contact-from .input-group select {
+        padding: 12px;
+        font-size: 13px;
+    }
+    .right-head h2 {
+        font-size: 35px;
+    }
+    .right-head h5 {
+        font-size: 16px;
+    }
+    .celender-content p {
+        margin-right: -16px;
+        padding: 12px 20px;
+        font-size: 14px;
+    }
+    .slider-header h2 {
+        font-size: 36px;
+        margin-bottom: 43px;
+    }
+    .slider-header h6 {
+        font-size: 17px;
+        margin-bottom: 31px;
+    }
+    .team-text h6::before {
+        top: 12px;
+        left: 352px;
+    }
+    .team-text h6::after {
+        top: 11px;
+        right: 353px;
+    }
+}
+
+@media(max-width: 1024px){
+    .contact-from {
+        top: -76px;
+        right: 35px;
+        width: 36%;
+        padding: 31px;
+    }
+    .contact-from h3::before {
+        top: -31px;
+        right: -31px;
+    }
+    .contact-from h3::after {
+        top: -31px;
+        left: -33px;
+    }
+    .service-content h5 {
+        margin-left: 36px;
+    }
+    .service-content h6 {
+        margin-left: 36px;
+    }
+    .service-icon span {
+        margin-right: 20px;
+    }
+    .btn-primary {
+        padding: 13px 31px;
+        font-size: 13px;
+    }
+    .carousel-control-prev-icon {
+        margin-left: -157px;
+    }
+    .carousel-control-next-icon {
+        margin-right: -158px;
+    }
+    .item span {
+        top: 20px;
+        left: 171px;
+        font-size: 41px;
+    }
+}
+
+@media(max-width: 992px) {
+    .team-text h6::before {
+        top: 10px;
+        left: 415px;
+        width: 36px;
+    }
+    .team-text h6::after {
+        top: 10px;
+        right: 418px;
+        width: 36px;
+    }
+    .header-top-location h4 {
+        font-size: 14px;
+    }
+    .header-top-gmail h4 {
+        font-size: 14px;
+    }
+    .header-top-right ul li a {
+        font-size: 14px;
+    }
+    .header .navbar-brand img {
+        width: 90px;
+    }
+    .header-right span {
+        display: none;
+    }
+    .icon-burger ul {
+        list-style: none;
+        padding-left: 0;
+        margin: 0;
+        display: none;
+    }
+    .carousel-caption h1 {
+        font-size: 37px;
+        font-weight: 700;
+        line-height: 44px;
+    }
+    .carousel-caption h5 {
+        font-size: 15px;
+        padding: 9px 0;
+        line-height: 24px;
+        width: 78%;
+    }
+    .carousel-caption button {
+        padding: 11px 25px;
+        font-size: 12px;
+        margin-top: 9px;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 26%;
+    }
+    .slider .carousel-control-prev span {
+        margin-left: -156px;
+        height: 45px;
+        width: 45px;
+        line-height: 45px;
+        font-size: 13px;
+    }
+    .slider .carousel-control-next span {
+        height: 45px;
+        width: 45px;
+        line-height: 45px;
+        font-size: 13px;
+    }
+    .slider-change .carousel-item {
+        height: 91vh;
+    }
+    .work-details h2 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    .work-details p {
+        line-height: 18px;
+        font-size: 10px;
+        line-height: 19px;
+        padding-bottom: 43px;
+        padding-top: 3px;
+    }
+    .work-info button {
+        font-size: 17px;
+        left: 69px;
+        height: 35px;
+        width: 83px;
+    }
+    .work-info button::after {
+        top: 17px;
+        left: 82px;
+        width: 38px;
+    }
+    .work-info button::before {
+        top: 17px;
+        left: -37px;
+        height: 3px;
+        width: 38px;
+    }
+    .about {
+        margin-top: 0 !important;
+    }
+    .about-right h1 {
+        font-size: 30px;
+        line-height: 33px;
+        margin-bottom: 0;
+    }
+    .about-right h6 {
+        margin-top: -7px;
+        font-size: 15px;
+        padding-top: 28px;
+        padding-bottom: 0;
+    }
+    .about-right::before {
+        top: 74px;
+        border-top: 5px double #0f6fc7;
+        width: 26px;
+    }
+    .about-right::after {
+        top: 74px;
+        left: 26px;
+        border-top: 5px solid #0f6fc7;
+        width: 27px;
+    }
+    .about-right p {
+        font-size: 12px;
+        line-height: 21px;
+        margin: 0;
+        padding: 7px 0;
+    }
+    .about-right img {
+        width: 80px;
+    }
+    .about-btn button {
+        padding: 12px 38px;
+        font-size: 11px;
+        margin-top: 17px;
+    }
+    .about-right {
+        margin-top: -5px !important;
+    }
+    .service-right p {
+        line-height: 21px;
+        margin-top: -9px;
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+    .team-text h6 {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .team-text h1 {
+        font-size: 32px;
+    }
+    .team-about {
+        margin-top: 22px;
+    }
+    .skill-left h1 {
+        font-size: 27px;
+        padding: 2px 0;
+    }
+    .skill-left p {
+        line-height: 21px;
+        padding: 4px 0;
+        font-size: 13px;
+        margin: 0;
+    }
+    .skill-atigator h5 {
+        font-size: 15px;
+        margin-bottom: 4px;
+        margin-top: 8px;
+    }
+    .skill-left {
+        margin-top: -8px !important;
+    }
+    .skill-contact h5 {
+        font-size: 16px;
+        padding-top: 2px;
+    }
+    .skill-contact span {
+        font-size: 12px;
+    }
+    .skill-contact::after {
+        top: 5px;
+        left: 4px;
+        font-size: 38px;
+    }
+    .contact-from h3 {
+        font-size: 19px;
+        margin: 0;
+    }
+    .contact-from p {
+        font-size: 12px;
+        padding: 5px 0;
+    }
+    .contact-from input {
+        padding: 6px;
+        font-size: 11px;
+        padding-bottom: 12px;
+    }
+    .contact-from .input-group select {
+        padding: 10px;
+        font-size: 11px;
+    }
+    .contact-from button {
+        font-size: 11px;
+        padding: 12px 0;
+        margin-top: 16px;
+    }
+    .contact-from {
+        right: 111px;;
+        padding: 21px;
+    }
+    .contact-from h3::before {
+        top: -21px;
+        right: -21px;
+    }
+    .contact-from h3::after {
+        top: -21px;
+        left: -23px;
+    }
+    .contact-cliant a {
+        height: 65px;
+        width: 65px;
+        line-height: 68px;
+        font-size: 51px;
+    }
+    .contact-cliant a::before {
+        width: 65px;
+        height: 65px;
+    }
+    .contact-cliant a::after {
+        width: 65px;
+        height: 65px;
+    }
+    .service-left h2 {
+        font-weight: 700;
+        font-size: 30px;
+        margin: 0;
+    }
+    .service-left h6 {
+        font-size: 15px;
+    }
+    .service-left::before {
+        height: 59px;
+        width: 5px;
+    }
+    .service-content h6 {
+        font-size: 16px;
+    }
+    .service-content h5 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-top: 8px;
+    }
+    .service-icon span {
+        height: 47px;
+        width: 47px;
+        font-size: 22px;
+        line-height: 47px;
+        margin-top: 14px;
+        margin-right: 43px;
+    }
+    .project-done img {
+        width: 86%;
+    }
+    .right-head h5 {
+        margin-left: 34px;
+        font-size: 15px;
+    }
+    .right-head h2 {
+        font-size: 24px;
+        margin-top: 14px;
+    }
+    .right-head h5::before {
+        top: 9px;
+        left: -35px;
+        width: 28px;
+    }
+    .left-btn {
+        margin-top: 9px !important;
+    }
+    .btn-primary {
+        padding: 12px 18px;
+        font-size: 12px;
+    }
+    .btn-primary:hover {
+        padding: 12px 18px;
+    }
+    .slider-header h2 {
+        font-size: 27px;
+        font-weight: 600 !important;
+    }
+    .slider-header h6 {
+        font-size: 16px;
+    }
+    .item img {
+        width: 75px;
+    }
+    .item span {
+        top: 27px;
+        left: 134px;
+        font-size: 29px;
+    }
+    .content-wedget p {
+        padding-top: 14px;
+        line-height: 21px;
+        font-size: 13px;
+    }
+    .content-wedget ul li a {
+        margin-bottom: 2px;
+        font-size: 13px;
+    }
+    .contact-menu ul li a span {
+        margin-right: 8px;
+        font-size: 13px;
+    }
+    .content-wedget ul li {
+        line-height: 25px;
+        font-size: 13px;
+    }
+    .footer-email {
+        padding: 7px;
+        margin-top: 11px;
+        font-size: 12px;
+    }
+    .content-wedget .about-btn button span {
+        margin-right: 6px;
+        font-size: 14px;
+    }
+    .content-wedget .about-btn button {
+        margin-top: 2px;
+        padding: 8px 17px;
+        font-size: 12px;
+    }
+    .content-wedget h4 {
+        margin-bottom: 34px;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .content-wedget h4::after {
+        top: 38px;
+        height: 4px;
+    }
+    .header .navbar-nav li a {
+        padding-top: 20px;
+        padding-bottom: 0px;
+        font-size: 15px;
+    }
+    .header .navbar-nav li ul {
+        top: 10px;
+        left: 19%;
+    }
+    .content-wedget img {
+        max-width: 36% !important;
+    }
+}
+
+
+@media(max-width: 768px){
+    .team-text h6::after {
+        right: 333px;
+        height: 1px;
+    }
+    .team-text h6::before {
+        height: 1px;
+        left: 327px;
+    }
+    .header-top-location {
+        margin-top: 6px;
+    }
+    .header-top-location h4 {
+        font-size: 13px;
+        padding-right: 11px;
+    }
+    .header-top-location span {
+        color: #fff;
+        margin-right: 6px;
+        font-size: 13px;
+    }
+    .header-top-gmail span {
+        margin-right: 6px;
+        font-size: 13px;
+    }
+    .header-top-gmail {
+        padding-left: 11px;
+        margin-top: 5px;
+    }
+    .header-top-right ul li a {
+        font-size: 13px;
+        padding: 0 9px;
+    }
+    .carousel-caption h1 {
+        font-size: 37px;
+        font-weight: 600;
+        line-height: 41px;
+    }
+    .carousel-caption h5 {
+        font-size: 14px;
+        padding: 10px 0;
+        line-height: 23px;
+    }
+    .carousel-caption button {
+        font-size: 11px;
+        padding: 8px 21px;
+        font-size: 11px;
+        margin-top: 7px;
+        font-weight: 500;
+    }
+    .carousel-caption {
+        left: 16%;
+    }
+    .slider .carousel-control-prev span {
+        margin-left: -158px;
+    }
+    .slider-change .carousel-item {
+        height: 74vh;
+    }
+    .work {
+        padding: 53px 0;
+    }
+    .work-info {
+        margin-bottom: 44px;
+    }
+    .work-info button {
+        font-size: 16px;
+        left: 81px;
+    }
+    .about-right h1 {
+        font-size: 23px;
+        line-height: 29px;
+    }
+    .about-right h6 {
+        padding-top: 23px;
+    }
+    .about-right::before {
+        top: 63px;
+    }
+    .about-right::after {
+        top: 63px;
+    }
+    .about-right p {
+        font-size: 11px;
+        line-height: 20px;
+        padding: 5px 0;
+    }
+    .about-right img {
+        width: 72px;
+    }
+    .about-btn button {
+        padding: 9px 28px;
+        font-size: 10px;
+        margin-top: 12px;
+    }
+    .about {
+        padding: 10px 0 !important;
+    }
+    .about-left {
+        margin-top: 28px;
+    }
+    .team {
+        padding-top: 64px;
+        padding-bottom: 118px;
+    }
+    .team-text h1 {
+        width: 95%;
+        font-weight: 700;
+        font-size: 30px;
+    }
+    .team-about {
+        margin-top: 78px;
+    }
+    .contact {
+        padding: 50px 0;
+    }
+    .project-done img {
+        width: 69%;
+    }
+    .project-done {
+        margin-top: 22px;
+    }
+    .service-left h2 {
+        font-weight: 700;
+        font-size: 26px;
+        margin: 0;
+    }
+    .celender-content h3 {
+        font-size: 19px;
+        padding: 12px 0;
+        line-height: 26px;
+    }
+    .celender-content p {
+        padding: 13px 12px;
+        font-size: 13px;
+    }
+    .news-heading-section {
+        margin: 0 !important;
+    }
+    .slider-header h6::after {
+        left: 46%;
+        width: 42px;
+    }
+    .slider-header h2 {
+        font-size: 21px;
+        margin-bottom: 26px;
+    }
+    .slider-content-section {
+        padding: 30px 0;
+    }
+    .item span {
+        top: 32px;
+    }
+    .content-wedget {
+        margin-bottom: 50px;
+    }
+    .footer-section {
+        padding-top: 46px !important;
+        padding-bottom: 0 !important;
+    }
+    .footer-bottom-text p {
+        font-size: 13px;
+    }
+    .carousel-control-prev-icon {
+        margin-left: -40px;
+    }
+    .carousel-control-next-icon {
+        margin-right: -40px;
+    }
+    .contact-from {
+        top: 373px;
+        right: 118px;
+        width: 68%;
+    }
+    .project {
+        margin-top: 320px;
+    }
+    .carousel-item img {
+        height: 100%;
+    }
+    .header-top-left {
+        margin-left: 18% !important;
+    }
+    .header-top-right ul {
+        margin-right: 39%;
+        margin-top: 20px;
+    }
+    .slider .carousel-control-prev span {
+        margin-left: -52px;
+    }
+    .header .navbar-nav li a {
+        padding-top: 15px;
+        padding-bottom: 0px;
+        font-size: 14px;
+    }
+    .header .navbar-nav li ul li a {
+        line-height: 29px;
+        font-size: 14px;
+    }
+    .header .navbar-nav li ul {
+        top: 10px;
+        left: 22%;
+    }
+    .content-wedget img {
+        max-width: 18%;
+    }
+}
+
+
+@media(max-width: 576px) {
+    .content-wedget h4::after {
+        left: 44%;
+    }
+    .content-wedget img {
+        max-width: 20% !important;
+    }
+    .footer-social ul {
+        margin-left: 36%;
+    }
+    .content-wedget {
+        text-align: center;
+    }
+    .content-wedget ul li {
+        display: inline !important;
+    }
+    .left-btn {
+        margin-top: -20px !important;
+    }
+    .service-right p {
+        margin-top: 27px;
+    }
+    .skill-left p {
+        margin-top: 20px;
+    }
+    .skill-left {
+        margin-top: -73px !important;
+    }
+    .team-text h6::before {
+        left: 297px;
+    }
+    .team-text h6::after {
+        right: 300px;
+    }
+    .about-bg {
+        margin-top: -62px !important;
+    }
+    .about-right {
+        margin-top: 44px !important;
+    }
+    .work-info button {
+        left: 40%;
+    }
+    .carousel-caption {
+        top: 20%;
+    }
+    .slider .carousel-control-prev span {
+        margin-left: -52px;
+    }
+    .slider-change .carousel-item {
+        height: 63vh;
+    }
+    .carousel-caption h1 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .carousel-caption h5 {
+        font-size: 12px;
+        padding: 6px 0;
+        line-height: 19px;
+        width: 100%;
+    }
+    .contact-from {
+        top: 390px;
+        right: 51px;
+        width: 82%;
+    }
+    .project {
+        margin-top: 344px;
+    }
+    .carousel-item img {
+        height: 100%;
+    }
+}
+@media(max-width: 500px) {
+    .contact-from {
+        top: 329px;
+        right: 51px;
+        width: 82%;
+    }
+    .footer-social ul {
+        margin-left: 31%;
+    }
+    .carousel-item img {
+        height: 100%;
+    }
+}
+@media(max-width: 400px) {
+    .footer-social ul {
+        margin-left: 99px !important;
+    }
+    .contact-from {
+        top: 254px;
+        right: 43px;
+        width: 82%;
+    }
+    .carousel-item img {
+        height: 103%;
+    }
+}
+@media(max-width: 335px) {
+    .content-wedget h4::after {
+        left: 40%;
+    }
+    .footer-social ul {
+        margin-left: 77px !important;
+    }
+    .work-info button {
+        left: 37%;
+    }
+    .contact-from {
+        top: 199px;
+        right: 34px;
+        width: 82%;
+    }
+    .header-top-left {
+        margin-left: -2% !important;
+    }
+    .header-top-right ul {
+        margin-right: 32%;
+        margin-top: 20px;
+    }
+}
+@media(max-width: 300px) {
+    .item span {
+        left: 100px;
+        font-size: 29px;
+    }
+    .footer-social ul {
+        margin-left: 59px !important;
+    }
+    .carousel-control-prev-icon {
+        margin-left: -10px;
+    }
+    .carousel-control-next-icon {
+        margin-right: -7px;
+    }
+    .header-top-location h4 {
+        font-size: 12px;
+        padding-right: 9px;
+    }
+    .header-top-location span {
+        margin-right: 5px;
+        font-size: 12px;
+    }
+    .header-top-gmail h4 {
+        font-size: 12px;
+    }
+    .header-top-gmail span {
+        margin-right: 5px;
+        font-size: 12px;
+    }
+}
+body{
+    overflow-x: hidden;
+}
